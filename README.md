@@ -1,3 +1,3 @@
-# CienciaDeDadosPython
+## Ciência de dados com Python
 
-<h3>Some exercises done in the Introduction to Data Science discipline using Google Colab.<h3>
+### Alguns exercícios desenvolvidos na disciplina Introdução a Ciência de Dados.
