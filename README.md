@@ -1,3 +1,3 @@
-## Ciência de dados com Python
+## Ciência de Dados com Python
 
-### Alguns exercícios desenvolvidos na disciplina Introdução a Ciência de Dados.
+### Alguns exercícios desenvolvidos na disciplina Introdução à Ciência de Dados.
